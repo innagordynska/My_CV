@@ -1,0 +1,48 @@
+header {
+    text-align: center;
+    font-size: x-large;
+    font-weight: bold;
+    background-color: #a52a2a; 
+    color: white;
+}
+
+.sunset {
+    width: 100%;
+}
+
+.size-18 {
+    font-size: 18px;
+}
+
+.style-italic {
+    font-style: italic;
+}
+
+.weight-bold {
+    font-weight: bold;
+}
+
+.text-decoration {
+    font-style: italic;
+    font-weight: bold;
+    color: #0000ff;
+}
+
+.pictures {
+    text-align: center;
+}
+
+.car {
+    border: 3px dashed black;
+}
+
+.color {
+    color: #0000ff;
+}
+
+footer {
+    text-align: center;
+    font-size: 20px;
+    background-color: black; 
+    color: white;
+}
