@@ -1,0 +1,49 @@
+body {
+    background-color: #fdde7e;
+    font-family: "Lucida Sans Unicode", sans-serif;
+    margin: 0;
+}
+
+.coffee {
+    display: flex;
+    justify-content: center;
+    padding: 30px 0;
+    cursor: pointer;
+}
+
+.coffee-cup-wrapper {
+    padding: 0 15px;
+}
+
+.coffee-cup {
+    background-color: #ffffff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 30px 70px 30px 70px;
+}
+
+.coffee-cup:hover {
+    transform: scale(1.05);
+    transition: height .3s ease-in-out;
+}
+
+.price {
+    margin-bottom: 20px;
+}
+
+.coffee-cup {
+    text-align: center;
+}
+
+h3 {
+    font-size: 20px;
+    margin-bottom: 30px;
+}
+
+p {
+    line-height: 0.5;
+    font-size: 18px;
+    margin-top: 0px;
+}
